@@ -1,0 +1,24 @@
+
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="add_student">Add Student</string>
+
+    <string name="student1_name">SenDT3</string>
+    <string name="student2_name">Freesia</string>
+    <string name="student3_name">Lily</string>
+
+    <string name="student1_description">FirstName: Dinh, LastName: Sen, Age: 21 </string>
+    <string name="student2_description">FirsName: Vu, LastName: Ha, Age: 20</string>
+    <string name="student3_description">FirsName: Thai, LastName: Quynh , Age: 25</string>
+
+
+    <string name="student_string">Students</string>
+    <string name="student_finder">Student finder</string>
+    <string name="student_description_edit_text">Student Description</string>
+    <string name="student_name_edit_text">Student Name</string>
+    <string name="done_button_text">Done</string>
+    <string name="fab_content_description">fab</string>
+    <string name="student_image_content_description">Image of Student</string>
+    <string name="remove_this_student">Remove this student</string>
+
+</resources>
